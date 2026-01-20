@@ -1,0 +1,6 @@
+Ankara\ic Anadolu\12.5
+Konya\ic Anadolu\14.2
+ Aymalov\Ege\19.5
+Ýstanbul\Marmara\15.8
+Bursa\Marmara\13.4 
+Izmir\Ege\18.2

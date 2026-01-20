@@ -1,0 +1,6 @@
+Sefiller\Roman\1200
+Suç ve Ceza\Roman\600
+Dune\Bilim Kurgu\700
+Vakif\Bilim Kurgu\500
+ilber Ortayli-Tarih Notlari\Tarih\300
+Nutuk\Tarih\800

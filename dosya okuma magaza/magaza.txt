@@ -1,0 +1,6 @@
+iPhone 15\Telefon\55000
+Samsung S23\Telefon\42000
+Macbook Air\Bilgisayar\38000 
+Airpods Pro\Kulaklýk\7000
+Asus Rog\Bilgisayar\45000
+Sony WH1000\Kulaklýk\9500
